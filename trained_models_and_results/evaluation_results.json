@@ -1,0 +1,9 @@
+{
+    "majority_class": 1,
+    "baseline_accuracy": 0.1,
+    "baseline_macro_f1": 0.01818181818181818,
+    "cnn_accuracy": 0.9694444444444444,
+    "cnn_macro_f1": 0.9691288793989017,
+    "vit_accuracy": 0.95,
+    "vit_macro_f1": 0.9483492464322572
+}
