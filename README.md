@@ -49,7 +49,7 @@ Both models substantially outperformed the majority-class baseline.
 ## 5. Project Structure
 
 ```text
-Module_04_Digit_Prediction/
+CNN-ViT-Digit-Classifier/
 │
 ├── train.py
 ├── models.py
@@ -57,7 +57,7 @@ Module_04_Digit_Prediction/
 ├── app.py
 ├── README.md
 │
-└── module4_outputs/
+└── trained_models_and_results/
     ├── split_indices.npz
     ├── cnn_model.pth
     ├── vit_model.pth
